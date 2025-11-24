@@ -10,7 +10,7 @@
 
 
 <h4> 🔧 Technologies & Tools </h4>
-<h5>💻 programming languages:</h5>
+<h5>💻 Programming languages:</h5>
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -25,7 +25,7 @@
 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-<h5>🛠️ tools and software: </h5>
+<h5>🛠️ Tools and software: </h5>
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-32d3a7.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)

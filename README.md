@@ -21,7 +21,7 @@
 ### 📊 Stats Analytics
 <p align="center">
   <a href="https://github.com/Ulises-p/">
-    <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ulises-p&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=663399&icon_color=689D6A&text_color=ebdbb2" />
-    <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ulises-p&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=663399&text_color=ebdbb2" />
+    <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ulises-p&show_icons=fa&include_all_commits=true&count_private=true&boder_color=663399&bg_color=0D1117&title_color=663399&icon_color=689D6A&text_color=ebdbb2" />
+    <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ulises-p&layout=compact&langs_count=8&color_border=663399&bg_color=0D1117&title_color=663399&text_color=ebdbb2" />
   </a>
 </p>
